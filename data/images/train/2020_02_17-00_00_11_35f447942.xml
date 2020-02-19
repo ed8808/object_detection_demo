@@ -1,0 +1,26 @@
+<annotation>
+	<folder>_image</folder>
+	<filename>2020_02_17-00_00_11_35f447942.jpg</filename>
+	<path>C:\Users\eeedm\Udacity\CapStone\CarND-Object-Detection-Lab-master\_image\2020_02_17-00_00_11_35f447942.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>traffic_light_red</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>473</ymin>
+			<xmax>303</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>
